@@ -20,7 +20,7 @@ Save the data to the file
 
 ## CODE
 ```
-Program Developed: M.Deepak chowdaryu
+Program Developed: M.Deepak chowdary
 Register number:212220040085
 ```
 ### Data.csv:
